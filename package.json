@@ -8,5 +8,8 @@
     "type": "git",
     "url": "git+https://github.com/RossSingleton/semantic-release-test-repo"
   },
-  "author": "RossSingleton"
+  "author": "RossSingleton",
+  "release": {
+      "brance": "next"
+  }
 }
