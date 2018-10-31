@@ -7,5 +7,5 @@ pipeline:
   semantic-release:
     image: node:8-alpine
     commands:
-      - npm install --save-dev semantic-release
+      - npm install @semantic-release/git -D
       - npx semantic-release
