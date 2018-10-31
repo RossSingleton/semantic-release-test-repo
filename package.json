@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RossSingleton/semantic-release-test-repo"
+    "url": "git@github.com:RossSingleton/semantic-release-test-repo.git"
   },
   "author": "RossSingleton",
   "release": {
