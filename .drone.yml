@@ -1,0 +1,9 @@
+clone:
+  clone:
+    image: plugins/git
+    recursive: true
+
+pipeline:
+  semantic-release:
+    commands:
+      - npx semantic-release
