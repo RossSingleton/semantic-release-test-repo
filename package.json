@@ -1,6 +1,7 @@
 
 {
   "name": "semantic-release-test-repo",
+  "private": true,
   "description": "test repo",
   "main": "index.js",
   "repository": {
